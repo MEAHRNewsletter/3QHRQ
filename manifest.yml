@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git 
+host: 3QHRQ
+name: 3QHRQ
+memory: 32M
+stack: cflinuxfs2
